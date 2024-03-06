@@ -1,3 +1,3 @@
 # portfolio
 
-This is a personla portfoio
+This is a personla portfolio
